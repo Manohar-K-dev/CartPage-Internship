@@ -142,8 +142,6 @@ Explore my collection of projects like Weather App, QR Generator, and more on Gi
 
 🌐 Portfolio: https://manohar-portfolio.onrender.com
 
-📄 Resume: View Resume (PDF)
-
 🐙 GitHub: https://github.com/Manohar-K-dev
 
 ---
