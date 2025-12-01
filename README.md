@@ -1,4 +1,4 @@
-# 🛒 Vibe Commerce - Full Stack E-Commerce Cart (MERN)
+# 🛒 Full Stack E-Commerce Cart (MERN)
 
 A **Full Stack Shopping Cart Application** built using the **MERN Stack (MongoDB, Express, React, Node.js)** as part of the **Vibe Commerce Internship Assignment**.
 
